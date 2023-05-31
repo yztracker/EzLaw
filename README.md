@@ -61,6 +61,9 @@ prompt : **幫我用此法律關係配合mermaid.js生成 概念地图（Concept
 - B是提起公訴的公訴人。
 - E代表臺灣士林地方檢察署的檢察官，負責審查和起訴程序（公訴程序）。
 
+## **成果展示**
+<img width="662" alt="image" src="https://github.com/yztracker/EzLaw/assets/39402524/886b42d2-539e-47f9-b163-f7b908de9a95">
+
 ## Todo
 
 - [x]  摘要判決書
