@@ -18,7 +18,7 @@
 
 prompt : **幫我摘要還有告訴我他們之間的法律關係**
 
-![Untitled](%E6%B3%95%E5%BE%8B%E9%97%9C%E4%BF%82%E5%9C%96%201bbe2dd287214f73bae14f45d533066c/Untitled.png)
+<img width="413" alt="Untitled" src="https://github.com/yztracker/EzLaw/assets/39402524/dd19a304-f3d9-4d72-af69-a5a3daa8eb7c">
 
 prompt : **幫我用此法律關係配合mermaid.js生成 概念地图（Concept map）的程式碼 (須包含html)**
 
